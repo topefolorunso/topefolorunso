@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on the energize project<br>👯 I’m looking to collaborate on any data engineering project<br>🤝 actively searching for a junior data engineering job<br>🌱 I’m currently learning to use aws<br>💬 Ask me about anything, let's see<br>⚡ Fun fact - 404<br><br>
+🔭 currently working on the energize project<br>👯 looking to collaborate on any data engineering project<br>🤝 actively searching for a junior data engineering role or internship<br>🌱 currently learning to use aws<br>💬 Ask me about anything, let's see<br>⚡ Fun fact - 404<br><br>
 
 
 ## 🌐 Socials:
