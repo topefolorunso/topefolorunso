@@ -46,8 +46,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topefolorunso&" alt="topefolorunso" /></p>
 
-<h3 align="left">✍️ Random Dev Quote:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 <h3 align="left">😂 Random Dev Meme:</h3>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
